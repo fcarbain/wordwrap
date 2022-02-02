@@ -1,0 +1,1 @@
+Simple class to wrap words
